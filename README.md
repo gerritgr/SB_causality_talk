@@ -1,12 +1,12 @@
 # Rethinking Counterfactuals: Hidden Assumptions and Practical Pitfalls
 
-Talk at **[CREST'26](https://sites.google.com/view/crest26)** — 7th Workshop on Formal Reasoning about Causation, Responsibility, and Explanations in Science and Technology (FLoC'26, Lisbon).
+Talk at **[Saarbrücken Causality Worksho 2026](https://sites.google.com/view/saarbrueckencausalityworkshop)** 
 
 **Motivation.** Individual counterfactuals now underpin ML tools for medicine, fairness, and accountability — yet whether a "what-if" about a *single* case is meaningful or useful is far from settled. This talk revisits a long-standing statistics debate and argues it is being reopened, and made worse, by machine learning.
 
 ## Paper
 
-The (not yet published) position paper is in this repo: **[`paper.pdf`](paper.pdf)** — it's password-protected, and the **password is on the talk slides**.
+The (not yet published) position paper is in this repo: **[`2026.Grossmann.AllCounterfactualsAreWrong.pdf`](2026.Grossmann.AllCounterfactualsAreWrong.pdf)** — the password is **123456**.
 
 Companion papers:
 
