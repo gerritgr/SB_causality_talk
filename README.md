@@ -1,6 +1,6 @@
 # Rethinking Counterfactuals: Hidden Assumptions and Practical Pitfalls
 
-Talk at **[Saarbrücken Causality Worksho 2026](https://sites.google.com/view/saarbrueckencausalityworkshop)** 
+Talk at **[Saarbrücken Causality Workshop 2026](https://sites.google.com/view/saarbrueckencausalityworkshop)** 
 
 **Motivation.** Individual counterfactuals now underpin ML tools for medicine, fairness, and accountability — yet whether a "what-if" about a *single* case is meaningful or useful is far from settled. This talk revisits a long-standing statistics debate and argues it is being reopened, and made worse, by machine learning.
 
